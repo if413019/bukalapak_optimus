@@ -25,27 +25,6 @@
       "deviceState": {
         "captureVideo": true
       }
-    },
-    {
-      "belongsTo":"receiver",
-      "runsOn": "any",
-      "appDir": "app",
-      "nativeApp":true,
-      "optimusDesiredCapabilities": {
-        "appiumServerCapabilities": {
-          "app": "bukalapak.apk",
-          "platformName": "Android"
-        },
-        "androidOnlyCapabilities": {
-          "appPackage": "com.bukalapak.android",
-          "appActivity": "HomeActivity_",
-          "avdLaunchTimeout": 300000,
-          "useKeystore": false
-        }
-      },
-      "deviceState": {
-        "captureVideo": true
-      }
     }
   ]
 }
