@@ -1,0 +1,10 @@
+{
+    "elements":[
+        {
+            "elementName":"commonButtonShowcase",
+            "identifier":"id",
+            "value":"button_showcase",
+            "waitFor":"visibility"
+        }
+    ]
+}

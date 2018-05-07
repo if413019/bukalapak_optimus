@@ -1,0 +1,16 @@
+{
+  "elements":[
+    {
+      "elementName":"chatIcon",
+      "identifier":"id",
+      "value": "actionbar_chat",
+      "waitFor": "presence"
+    },
+    {
+      "elementName":"tabProfile",
+      "identifier":"id",
+      "value": "bottombartab_profile",
+      "waitFor": "presence"
+    }
+  ]
+}
