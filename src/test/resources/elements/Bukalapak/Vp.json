@@ -4,7 +4,7 @@
             "elementName":"textFieldPhone",
             "identifier":"id",
             "value":"vpTextFieldAVValue",
-            "waitFor":"visibility"
+            "waitFor":"presence"
         },
         {
             "elementName":"textFieldPLN",
@@ -14,29 +14,36 @@
             "elementName":"dropdownAmount",
             "identifier":"id",
             "value":"vpSelectionFieldAV",
-            "waitFor":"visibility"
+            "waitFor":"presence"
         },
         {
             "elementName":"chooseAmount",
             "identifier":"xpath",
             "value":"//android.widget.TextView[@text='50.000']",
-            "waitFor":"visibility"
+            "waitFor":"presence"
         },
         {
             "elementName":"dropdownChooseAmount",
             "identifier":"id",
             "value":"vpSelectionFieldAV",
-            "waitFor":"visibility"
+            "waitFor":"presence"
         },
         {
             "elementName":"buttonBayar",
             "identifier":"xpath",
-            "value":"//android.widget.Button"
+            "value":"//android.widget.Button[@text='Bayar']",
+            "waitFor":"presence"
         },
         {
             "elementName":"widgetPulsa",
             "identifier":"xpath",
             "value":"//android.widget.TextView[@text='Pulsa']",
+            "waitFor": "presence"
+        },
+        {
+            "elementName":"buttonShowcasePulsa",
+            "identifier":"xpath",
+            "value":"//android.widget.Button[@text='Oke']",
             "waitFor": "presence"
         }
 

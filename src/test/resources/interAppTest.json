@@ -2,7 +2,7 @@
   "executionDetails": {
     "appium_js_path": "/usr/local/bin/appium",
     "appium_node_path": "/usr/local/bin/node",
-    "monitoring":true
+    "monitoring":false
   },
   "testFeed":[
     {
@@ -23,7 +23,7 @@
         }
       },
       "deviceState": {
-        "captureVideo": true
+        "captureVideo": false
       }
     }
   ]

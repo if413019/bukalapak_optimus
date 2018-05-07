@@ -8,9 +8,9 @@ Feature: VP
     And   user on home screen taps on buttonShowCaseVP
     And   user on home screen taps on buttonShowCaseVP
     And   user on vp screen taps on widgetPulsa
-    And   user on vp screen types on textFieldPhone
+    And   user on vp screen taps on buttonShowcasePulsa
     And   user on vp screen taps on dropdownAmount
     And   user on vp screen taps on chooseAmount
     And   user on vp screen taps on buttonBayar
     And   user on checkout screen taps on radioButtonTransfer
-    And   user on checkout screen taps on buttonCheckout
+    And   user do checkout
