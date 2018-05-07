@@ -17,9 +17,16 @@
          "waitFor": "presence"
         },
         {
-         "elementName":"buttonShowcaseVP",
+          "elementName":"buttonShowcaseVP",
           "identifier":"id",
-          "value":"button1"
+          "value":"button1",
+          "waitFor": "presence"
+        },
+        {
+          "elementName":"buttonShowCaseVPMenu",
+          "identifier":"id",
+          "value":"button1",
+          "waitFor": "presence"
         }
     ]
 }

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.testvagrant:optimus:2.3.4-beta">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.testvagrant/optimus/2.3.4-beta/36d862f7a202a8ff4fb5eaff8ff3dfa7238ea182/optimus-2.3.4-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.testvagrant/optimus/2.3.4-beta/13a76e75c4ef338676b45b5e03b5a2b079f381f8/optimus-2.3.4-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

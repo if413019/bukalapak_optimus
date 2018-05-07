@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.testvagrant.stepdefs:stepdefs:1.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.testvagrant.stepdefs/stepdefs/1.0.7/7442cca34562ae737ad71a56ef36548bdbd683fe/stepdefs-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.testvagrant.stepdefs/stepdefs/1.0.7/8ca5cfaf3c9c176732c6d69ffe9e9a6f8471fb32/stepdefs-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

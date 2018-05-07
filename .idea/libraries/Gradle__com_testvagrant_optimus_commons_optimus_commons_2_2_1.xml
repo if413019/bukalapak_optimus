@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.testvagrant.optimus-commons:optimus-commons:2.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.testvagrant.optimus-commons/optimus-commons/2.2.1/1b0f40a2a96cb0ba17bf83dea90856c8d51ecd9b/optimus-commons-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.testvagrant.optimus-commons/optimus-commons/2.2.1/369c750cedf51c6f2c85b34c06576f7501487eeb/optimus-commons-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

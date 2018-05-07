@@ -1,0 +1,14 @@
+{
+  "elements":[
+    {
+      "elementName":"buttonShowcase",
+      "referTo": "commonButtonShowcase"
+    },
+    {
+      "elementName":"chatIcon",
+      "identifier":"id",
+      "value": "actionbar_chat",
+      "waitFor": "presence"
+    }
+  ]
+}

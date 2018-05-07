@@ -1,0 +1,32 @@
+{
+    "elements":[
+        {
+            "elementName":"buttonShowcase",
+            "referTo": "commonButtonShowcase"
+        },
+        {
+            "elementName":"chatIcon",
+            "identifier":"id",
+            "value": "actionbar_chat",
+            "waitFor": "presence"
+        },
+        {
+         "elementName":"tabProfile",
+         "identifier":"id",
+         "value": "bottombartab_profile",
+         "waitFor": "presence"
+        },
+        {
+          "elementName":"buttonShowcaseVP",
+          "identifier":"id",
+          "value":"button1",
+          "waitFor": "presence"
+        },
+        {
+          "elementName":"buttonShowCaseVPMenu",
+          "identifier":"id",
+          "value":"button1",
+          "waitFor": "presence"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "elements":[
+    {
+      "elementName":"radioButtonTransfer",
+      "identifier":"xpath",
+      "value":"//android.widget.TextView[@text='Transfer']",
+      "waitFor":"visibility"
+    },
+    {
+      "elementName":"buttonCheckout",
+      "identifier":"id",
+      "value":"button_next",
+      "waitFor":"visibility"
+    }
+  ]
+}

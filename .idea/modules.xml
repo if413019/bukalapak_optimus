@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bukalapak_optimus.iml" filepath="$PROJECT_DIR$/bukalapak_optimus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bukalapak_optimus_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bukalapak_optimus_main.iml" group="bukalapak_optimus" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bukalapak_optimus_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bukalapak_optimus_test.iml" group="bukalapak_optimus" />
+    </modules>
+  </component>
+</project>
