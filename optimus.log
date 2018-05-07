@@ -1,0 +1,19 @@
+2018-05-07 22:41:58 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-07 22:42:54 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-4--driver instance created for 192.168.56.102:5555
+2018-05-07 22:42:56 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@507b79f7---BOT registered successfully for -- 192.168.56.102:5555
+2018-05-08 00:04:03 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 00:05:40 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 00:06:11 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.102:5555
+2018-05-08 00:06:15 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@226eba67---BOT registered successfully for -- 192.168.56.102:5555
+2018-05-08 00:07:40 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@226eba67---The following BOT de-registered successfully -- 192.168.56.102:5555
+2018-05-08 00:09:53 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 00:10:29 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.102:5555
+2018-05-08 00:10:32 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@1cb7936c---BOT registered successfully for -- 192.168.56.102:5555
+2018-05-08 00:12:26 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 00:12:49 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.102:5555
+2018-05-08 00:12:52 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@226eba67---BOT registered successfully for -- 192.168.56.102:5555
+2018-05-08 00:14:56 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@226eba67---The following BOT de-registered successfully -- 192.168.56.102:5555
+2018-05-08 00:22:42 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 00:23:11 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.102:5555
+2018-05-08 00:23:14 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@23b3aa8c---BOT registered successfully for -- 192.168.56.102:5555
+2018-05-08 00:25:46 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@23b3aa8c---The following BOT de-registered successfully -- 192.168.56.102:5555

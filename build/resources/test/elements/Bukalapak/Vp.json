@@ -1,0 +1,51 @@
+{
+    "elements":[
+        {
+            "elementName":"textFieldPhone",
+            "identifier":"id",
+            "value":"vpTextFieldAVValue",
+            "waitFor":"presence"
+        },
+        {
+            "elementName":"textFieldPLN",
+            "referTo": "textFieldPhone"
+        },
+        {
+            "elementName":"dropdownAmount",
+            "identifier":"id",
+            "value":"vpSelectionFieldAV",
+            "waitFor":"presence"
+        },
+        {
+            "elementName":"chooseAmount",
+            "identifier":"xpath",
+            "value":"//android.widget.TextView[@text='50.000']",
+            "waitFor":"presence"
+        },
+        {
+            "elementName":"dropdownChooseAmount",
+            "identifier":"id",
+            "value":"vpSelectionFieldAV",
+            "waitFor":"presence"
+        },
+        {
+            "elementName":"buttonBayar",
+            "identifier":"xpath",
+            "value":"//android.widget.Button[@text='Bayar']",
+            "waitFor":"presence"
+        },
+        {
+            "elementName":"widgetPulsa",
+            "identifier":"xpath",
+            "value":"//android.widget.TextView[@text='Pulsa']",
+            "waitFor": "presence"
+        },
+        {
+            "elementName":"buttonShowcasePulsa",
+            "identifier":"xpath",
+            "value":"//android.widget.Button[@text='Oke']",
+            "waitFor": "presence"
+        }
+
+    ]
+}

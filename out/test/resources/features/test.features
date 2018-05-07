@@ -13,4 +13,4 @@ Feature: VP
     And   user on vp screen taps on chooseAmount
     And   user on vp screen taps on buttonBayar
     And   user on checkout screen taps on radioButtonTransfer
-    And   user do checkout
+    And   user do checkout`
