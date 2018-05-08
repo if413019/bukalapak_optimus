@@ -8,7 +8,9 @@
         },
         {
             "elementName":"textFieldPLN",
-            "referTo": "textFieldPhone"
+            "identifier":"id",
+            "value":"vpTextFieldAVValue",
+            "waitFor":"presence"
         },
         {
             "elementName":"dropdownAmount",
@@ -44,6 +46,18 @@
             "elementName":"buttonShowcasePulsa",
             "identifier":"xpath",
             "value":"//android.widget.Button[@text='Oke']",
+            "waitFor": "presence"
+        },
+        {
+            "elementName":"buttonShowcaseBarcode",
+            "identifier":"xpath",
+            "value":"//android.widget.Button[@text='Oke']",
+            "waitFor": "presence"
+        },
+        {
+            "elementName":"widgetTokenPLN",
+            "identifier":"xpath",
+            "value":"//android.widget.TextView[@text='Token Listrik']",
             "waitFor": "presence"
         }
 

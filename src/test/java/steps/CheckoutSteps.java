@@ -10,4 +10,10 @@ public class CheckoutSteps extends BaseSteps {
         	checkout.scrollDownToThenTap("Bayar");
     	}
 
+	@Given("^(\\w+)\\s+do checkout from landing page$")
+	public void tapCheckoutFromLandingPage(String consumer) throws Throwable {
+		Checkout checkout = new Checkout(getDriverInstanceFor(consumer));
+		checkout.scrollDownToThenTap("Bayar");
+	}
+
 }

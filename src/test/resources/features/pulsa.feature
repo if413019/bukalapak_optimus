@@ -1,9 +1,10 @@
 Feature: pulsa
 
+	@pulsa
 	Scenario: Beli pulsa transfer bank
 		Given user on home screen taps on buttonShowcase
 		And user on home screen taps on tabProfile
-		And user on login screen login with credentials testakunsatudua1
+		And user on login screen login with credentials testakunbaru
 		And user on home screen taps on buttonShowCaseVP
 		And user on home screen taps on buttonShowCaseVP
 		And user on vp screen taps on widgetPulsa

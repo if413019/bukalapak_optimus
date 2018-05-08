@@ -17,3 +17,108 @@
 2018-05-08 00:23:11 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.102:5555
 2018-05-08 00:23:14 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@23b3aa8c---BOT registered successfully for -- 192.168.56.102:5555
 2018-05-08 00:25:46 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@23b3aa8c---The following BOT de-registered successfully -- 192.168.56.102:5555
+2018-05-08 10:46:32 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 10:46:56 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.101:5555
+2018-05-08 10:46:58 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@226eba67---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 10:48:49 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@226eba67---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 11:07:03 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 11:07:25 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.101:5555
+2018-05-08 11:07:27 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@6c796cc1---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 11:11:22 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 11:11:47 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-3--driver instance created for 192.168.56.101:5555
+2018-05-08 11:11:49 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@128c502c---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 11:17:53 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 11:19:16 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 11:19:39 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 11:19:41 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@5e5073ab---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 11:23:41 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 11:24:06 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 11:24:08 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@100c567f---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 11:25:43 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@100c567f---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 11:28:19 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 11:28:53 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 11:28:55 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@77a2aa4a---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 11:30:45 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@77a2aa4a---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 11:31:21 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 11:31:45 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 11:31:47 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@2b917fb0---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 11:34:50 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@2b917fb0---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 12:29:46 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 12:30:06 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 12:30:07 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@5e5073ab---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 12:33:16 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 12:33:45 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 12:33:47 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@77a2aa4a---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 12:36:43 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@77a2aa4a---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 12:39:55 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 12:40:24 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 12:40:26 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@7123be6c---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 12:43:07 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@7123be6c---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 12:43:12 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 12:43:40 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 12:43:42 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@65eabaab---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 12:46:42 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@65eabaab---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 12:47:23 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 12:47:59 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 12:48:01 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@7123be6c---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 12:50:51 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@7123be6c---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 12:50:57 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 12:51:21 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 12:51:22 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@65eabaab---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 12:54:49 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@65eabaab---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 12:54:49 WARN  OptimusController:130 - Appium server didn't stop properly for 
+org.openqa.selenium.NoSuchSessionException: A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'bukalapaks-MacBook-Pro-10.local', ip: 'fe80:0:0:0:1c9c:b7ff:7fe5:d454%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.1', java.version: '1.8.0_144'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/ramurez/bukalapak_optimus/app/bukalapak.apk, appPackage=com.bukalapak.android, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=192.168.56.101:5555, platform=LINUX, deviceUDID=192.168.56.101:5555, appActivity=HomeActivity_, avdLaunchTimeout=300000, desired={app=/Users/ramurez/bukalapak_optimus/app/bukalapak.apk, appPackage=com.bukalapak.android, appActivity=HomeActivity_, avdLaunchTimeout=300000, udid=192.168.56.101:5555, platformName=Android, deviceName=Custom Phone - 5.1.0 - API 22 - 768x1280, useKeystore=false}, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=Custom Phone - 5.1.0 - API 22 - 768x1280, udid=192.168.56.101:5555, deviceManufacturer=unknown, platformName=LINUX, useKeystore=false}]
+Session ID: 22c996cd-5eae-41d1-969d-064c00631322
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:89)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:46)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:482)
+	at com.testvagrant.optimus.device.OptimusController.deRegisterSmartBOTs(OptimusController.java:124)
+	at steps.StartingSteps.tearDown(StartingSteps.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at cucumber.runtime.Utils$1.call(Utils.java:32)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:26)
+	at cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)
+	at cucumber.runtime.HookDefinitionMatch.runStep(HookDefinitionMatch.java:17)
+	at cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)
+	at cucumber.api.TestStep.run(TestStep.java:83)
+	at cucumber.api.TestCase.run(TestCase.java:58)
+	at cucumber.runner.Runner.runPickle(Runner.java:80)
+	at cucumber.runtime.Runtime.runFeature(Runtime.java:119)
+	at cucumber.runtime.Runtime.run(Runtime.java:104)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+2018-05-08 15:38:12 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 15:39:03 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 15:39:04 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@5e5073ab---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 15:46:07 INFO  OptimusController:146 - Starting Scenario -- Beli pulsa transfer bank
+2018-05-08 15:47:32 INFO  OptimusController:168 - Beli-pulsa-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 15:47:36 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@5e5073ab---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 16:16:39 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 16:17:04 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 16:17:06 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@5e5073ab---BOT registered successfully for -- 192.168.56.101:5555
+2018-05-08 16:17:22 INFO  OptimusController:123 - cucumber.runtime.ScenarioImpl@5e5073ab---The following BOT de-registered successfully -- 192.168.56.101:5555
+2018-05-08 16:20:04 INFO  OptimusController:146 - Starting Scenario -- Beli token pln transfer bank
+2018-05-08 16:20:34 INFO  OptimusController:168 - Beli-token-pln-transfer-bank-4--driver instance created for 192.168.56.101:5555
+2018-05-08 16:20:36 INFO  OptimusController:192 - cucumber.runtime.ScenarioImpl@100c567f---BOT registered successfully for -- 192.168.56.101:5555
